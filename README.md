@@ -10,10 +10,6 @@
 
 ###
 
-<h1>🧑🏻‍💻 About Me:</h1>
-
-🏢 I’m looking forward to work as a Full Stack Web Developer<br><br>💻 My Technical Skills:<br>Frontend: HTML, CSS, JavaScript, React.js<br>Backend: Node.js, Express.js, PHP, Java<br>Databases: MongoDB, SQL<br>Other: REST APIs<br><br>⚡ Fun Fact:<br>When I’m not coding, I love exploring new tech trends, gaming, or diving into sci-fi movies!
-<br><br>
 <h1 align="left">🌐 Social:</h1>
 <p align="left">
 <a href="https://twitter.com/muktiprasad6599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muktiprasad6599" height="30" width="40" /></a>
