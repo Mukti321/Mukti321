@@ -1,3 +1,4 @@
+![logo](https://github.com/Mukti321/Mukti321/blob/main/WhatsApp%20Image%202024-12-27%20at%2000.06.26_a377e995.jpg)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+👋;+I'm+Mukti+Prasad+Dash!;" style="transition: transform 0.7s ease-in-out;" />
 </h1>
