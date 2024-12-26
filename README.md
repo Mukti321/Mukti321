@@ -16,6 +16,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mukti-prasad-dash-069236241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukti-prasad-dash-069236241" height="30" width="40" /></a>
 <a href="https://instagram.com/epic_dash_life_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="epic_dash_life_17" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@muktiprasaddash9434?si=ltw5sbeytj6uagu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@muktiprasaddash9434?si=ltw5sbeytj6uagu9" height="30" width="40" /></a>
+<a href="mailto:chinmayeemohanty412@gmail.com" target="_blank">
+<img align="center" src="https://github.com/user-attachments/assets/a46ba50e-593c-44bd-a472-bd14c87adbed" alt="chinmayeemohanty412@gmail.com" height="30" width="40" />
+</a>
 </p>
 <br><br>
 
